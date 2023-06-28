@@ -34,6 +34,3 @@ Options:
   -V, --version  Print version
 ```
 and then, you just need to pass the arguments following the command instructions.
-
-## TODO
-- CI/CD integration, based on Github actions
